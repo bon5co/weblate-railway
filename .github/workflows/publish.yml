@@ -25,5 +25,5 @@ jobs:
           push: true
           provenance: false
           tags: |
-            ghcr.io/bon5co/weblate-railway:3.0.7
+            ghcr.io/bon5co/weblate-railway:2026.11.2
             ghcr.io/bon5co/weblate-railway:latest
